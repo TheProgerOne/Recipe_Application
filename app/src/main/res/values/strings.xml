@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MainProject</string>
+    <string name="home_icon">Home</string>
+    <string name="like_icon">Like</string>
+    <string name="favorite_icon">Favorite</string>
+    <string name="logo_of_app_1">Recipe</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="logo_of_app_3">RecipeRead</string>
+    <string name="filter_icon">Filter</string>
+    <string name="menuhome_btn">MenuHome_btn</string>
+    <string name="menulike_btn">MenuLike_btn</string>
+    <string name="course_start_date">Сooking time:</string>
+    <string name="course_level">Difficulty of cooking:</string>
+    <string name="course_desc">Portion quantity:dsfdsfsdfdsfdsfdsafsadfsadfsadfgddfgdfgsadgsadfsadfsadfsadfsadfsadfsadf\n gdfgdfgdfgdsfgdsf\n fghdfghdfghdfgh\n fghfdghfgdh\n fghfdghdfgh\n fghdfghdfghdfg\n fghdfhfdghfgh\n fghfdghfgh\n fghfghfhgdfdgh\n fghdfhdfghfgdh\n 4 servings\nIngredients required: Potatoes - 2 pieces\nOnions - 1 piece\nTomatoes - 2 pieces\nTomatoes in their own juice - 350 grams\nWater - 350 milliliters\nOil - 2 tablespoons</string>
+
+</resources>
